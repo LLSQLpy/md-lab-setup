@@ -3,7 +3,7 @@
 # setup_md_lab.sh
 # Установка GROMACS + Avogadro + Grace + PyMOL (с фиксом для Python 3.12) на Ubuntu 24.04 / Lubuntu 24.04
 # Запуск: 
-#   wget https://raw.githubusercontent.com/ВАШ_ЮЗЕРНЕЙМ/ВАШ_РЕПОЗИТОРИЙ/main/setup_md_lab.sh
+#   wget https://raw.githubusercontent.com/LLSQLpy/md-lab-setup/main/setup_md_lab.sh
 #   chmod +x setup_md_lab.sh
 #   ./setup_md_lab.sh
 
