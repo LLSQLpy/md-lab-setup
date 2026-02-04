@@ -38,6 +38,10 @@ sudo apt install -y gromacs gromacs-data
 echo "→ 4. Установка Avogadro, Grace (xmgrace), PyMOL..."
 sudo apt install -y avogadro grace pymol
 
+# 4.1. Firefox
+echo "→ 4.1. Установка Firefox..."
+sudo apt install -y firefox
+
 # 5. universe + фикс PyMOL (imp → zombie-imp)
 echo "→ 5. Включаем universe и ставим python3-zombie-imp..."
 sudo add-apt-repository universe -y
