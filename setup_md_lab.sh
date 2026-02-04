@@ -30,6 +30,10 @@ sudo apt install -y \
     libopenblas-dev \
     libstdc++-14-dev
 
+# 2.1. Установка libfuse2
+echo "→ 2.1. Установка libfuse2..."
+sudo apt install -y libfuse2
+
 # 3. GROMACS
 echo "→ 3. Установка GROMACS и данных..."
 sudo apt install -y gromacs gromacs-data
